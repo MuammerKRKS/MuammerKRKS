@@ -14,4 +14,3 @@
 📚 Passionate about problem-solving and continuous learning.  
 🎯 Goal: To work on real-world projects and grow into a strong backend developer.  
 
-"profil readme eklendi"
