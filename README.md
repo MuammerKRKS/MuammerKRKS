@@ -20,4 +20,11 @@
 
 
 
-![snake gif](https://github.com/MuammerKRKS/MuammerKRKS/blob/output/github-contribution-grid-snake.gif)
+
+
+
+
+### 🐍 Snake eating my contributions
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/MuammerKRKS/MuammerKRKS/output/github-contribution-grid-snake.svg)
+
