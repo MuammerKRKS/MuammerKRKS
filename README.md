@@ -17,15 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muammerkrks&show_icons=true&locale=en&layout=compact" alt="muammerkrks" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muammerkrks&show_icons=true&locale=en" alt="muammerkrks" /></p>
-
-
-
-
-
-
-
-### 🐍 Snake eating my contributions
-
-![Snake animation](https://raw.githubusercontent.com/MuammerKRKS/MuammerKRKS/output/github-contribution-grid-snake.svg)
-
-
