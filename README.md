@@ -26,5 +26,6 @@
 
 ### 🐍 Snake eating my contributions
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/MuammerKRKS/MuammerKRKS/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/MuammerKRKS/MuammerKRKS/output/github-contribution-grid-snake.svg)
+
 
