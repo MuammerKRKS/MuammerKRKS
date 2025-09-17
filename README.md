@@ -18,3 +18,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muammerkrks&show_icons=true&locale=en" alt="muammerkrks" /></p>
 
+
+
+![snake gif](https://github.com/MuammerKRKS/MuammerKRKS/blob/output/github-contribution-grid-snake.gif)
